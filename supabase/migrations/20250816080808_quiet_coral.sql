@@ -1,2 +1,0 @@
--- Initial data for development (optional)
--- This file is automatically executed by Spring Boot in H2

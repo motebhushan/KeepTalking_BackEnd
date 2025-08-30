@@ -16,7 +16,7 @@ import java.util.List;
 @RequestMapping("/api/chat")
 @RequiredArgsConstructor
 @Slf4j
-@CrossOrigin(origins = "http://localhost:8081")
+@CrossOrigin(origins = "https://keep-talking-navy.vercel.app")
 public class ChatController {
     
     private final ChatService chatService;
